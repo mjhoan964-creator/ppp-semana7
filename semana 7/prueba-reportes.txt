@@ -1,0 +1,29 @@
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 2,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+Respuesta de la ruta POST: el reporte ya fue entregado con éxito a la plataforma
+bajo el folio número 2 y queda a la espera de ser asignado al área técnica correspondiente para su reparación.
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  },
+  {
+    "id": 2,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Respuesta de la ruta GET: esta devuelve un listado completo y ordenado
+con todos los folios almacenados en la base de datos de la plataforma,incluyendo el historial 
+previo (ID 1) y el reporte recién creado (ID 2), permitiendo al área técnica visualizar la carga
+total de trabajo acumulada.

@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Ambiente",
+  "descripcion": "se visualiza bastante humo por quema de basura en zona comunitaria"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Emergencia",
+  "descripcion": "Poste de energía eléctrica inclinado con riesgo de caída."
+}

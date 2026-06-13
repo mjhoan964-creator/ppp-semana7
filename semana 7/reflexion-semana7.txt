@@ -1,0 +1,9 @@
+¿Por qué es importante que las comunidades puedan registrar y consultar reportes o 
+incidencias en una plataforma tecnológica?
+
+Respuesta/ Estas plataformas son clave porque nos facilitan la vida como ciudadanos, permitiendo reportar
+cualquier falla al instante desde el celular (con un simple POST) sin lidiar con tanta burocracia.
+Además, al organizar todo en listas claras (mediante consultas GET), el sistema ayuda a que las 
+autoridades vean qué problemas son urgentes (como una emergencia) y qué cosas pueden esperar.
+Esto nos da transparencia porque podemos seguir nuestro reporte con el número de folio y presionar
+para que las soluciones lleguen mucho más rápido.
